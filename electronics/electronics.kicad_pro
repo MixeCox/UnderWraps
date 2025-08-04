@@ -52,12 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "hole_clearance|172470000|117055000|440eea48-7cf1-46d9-9414-d1f6b1b38b91|ac562e9f-2f6b-4374-b3a2-e871f355ded8",
-        "hole_clearance|172470000|117055000|440eea48-7cf1-46d9-9414-d1f6b1b38b91|b2bf78c9-5683-4dd6-9d75-3ec794506685",
-        "hole_clearance|178570000|117055000|bfe443a2-9d08-4c10-9567-07778d7e839c|b40faa0e-6785-4aea-9b2a-06bc3a093a19",
-        "hole_clearance|178570000|117055000|bfe443a2-9d08-4c10-9567-07778d7e839c|bbb87189-8b8d-4866-b614-9a5cd9b7b212"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
