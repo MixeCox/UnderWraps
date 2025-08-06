@@ -1,4 +1,4 @@
-23054237843750912
+23059501116643761
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93611,6 +93611,13 @@ BAT_1025
 2
 2
 Uni
+BAT_3024-2
+
+
+0
+3
+2
+Uni
 BAT_BK-414
 
 
@@ -93624,6 +93631,13 @@ BM02B-SRSS-TB LFSN
 0
 4
 4
+Uni
+CUS-12TB_NDC
+
+CUS-12TB 
+0
+7
+7
 Uni
 GCT_FFC2A32-24-T
 
@@ -93659,6 +93673,13 @@ SPKR_PKMCS0909E4000-R1
 0
 2
 2
+Uni
+SW3_CSS-1210TB_NDC
+
+CSS-1210TB 
+0
+5
+5
 Uni
 SW_EVQ-P7J01P
 
